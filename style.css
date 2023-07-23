@@ -1,0 +1,12 @@
+.font-manrope{
+    font-family: 'Manrope', sans-serif;
+}
+::selection{
+    background-color: #F00;
+    color: #fff;
+}
+.theme-btn{
+    background: var(--linear, linear-gradient(270deg, #F00 0%, #FF8938 100%)); 
+    color: #fff;
+    border: none;
+}
