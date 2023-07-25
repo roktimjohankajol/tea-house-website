@@ -10,3 +10,9 @@
     color: #fff;
     border: none;
 }
+.line-height{
+    line-height: 1.2 !important;
+}
+.container{
+    max-width: 1200px !important;
+}
